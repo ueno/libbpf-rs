@@ -13,6 +13,7 @@
 //! binds to [`BtfType`].
 
 pub mod types;
+pub mod dump;
 
 use std::ffi::CStr;
 use std::ffi::CString;
